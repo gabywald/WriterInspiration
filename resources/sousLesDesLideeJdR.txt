@@ -1,0 +1,267 @@
+Table Personnages
+	Médiéval-Fantastique
+		Un voleur
+		Un assassin
+		Un magicien
+		Un devin
+		Un garde
+		Un pélerin
+		Un noble
+		Une guilde
+		Un troubadour
+		Un marchand
+		Un roi
+		Un monstre
+		Un dieu
+		Un prêtre
+		[PJ]
+		Un scribe
+		Un enfant
+		Un gitan
+		Un guerrier
+	Début XXème siècle
+		Un cambrioleur
+		Un tueur à gages
+		Un savant fou
+		Un directeur de cirque
+		Un commissaire
+		Un adorateur
+		Une personnalité
+		La pègre
+		Un musicien de jazz
+		Un boutiquier
+		Une tête couronnée
+		Une créature
+		Un dieu
+		Un médecin
+		[PJ]
+		Un chroniqueur
+		Un dilettante
+		Un médium
+		Un colonialiste
+	Contemporain
+		Un maître chanteur
+		Un terroriste
+		Un scientifique
+		Un routier
+		Un détective privé
+		Une secte
+		Un milliardaire
+		Une organisation criminelle
+		Un acteur
+		Une firme d'import-export
+		Un chef d'état
+		Un parapsychologue
+		Un informaticien
+		Un chirurgien
+		[PJ]
+		Un grand reporter
+		Un top model
+		Un espion
+		Un militaire
+	CyberPunk
+		Un dealer
+		Un solo
+		Un scientifique
+		Un nomade
+		Un flic
+		Une secte
+		Un corporatiste
+		Un gang
+		Une rockstar
+		Une mégacorpo
+		Une <<huile>>
+		Un androïde
+		Une I.A.
+		Un charcudoc
+		[PJ]
+		Un média
+		Un netrunner
+		Un indic
+		Un mercenaire
+	Post-Apocalyptique
+		Un récupérateur
+		Un psychopathe
+		Un savant fou
+		Un traître
+		Un milicien
+		Un pèlerin
+		Un leader
+		Une tribu
+		Un solitaire
+		Un marchand
+		Une amazone
+		Un mutant
+		Un médium
+		Un médecin
+		[PJ]
+		Un vieil érudit
+		Un enfant
+		Un mécano
+		Un robot
+	Space Opéra
+		Un pirate
+		Un aventurier
+		Un scientifique
+		Un mercenaire
+		Un militaire
+		Une organisation
+		Un chef de guerre
+		Un hors-la-loi
+		Un espion
+		Une corporation
+		Un dirigeant politique
+		Un extraterrestre / extra-humain
+		Un télépathe
+		Un médecin
+		[PJ]
+		Un technicien
+		Un chasseur de primes
+		Un pilote
+		Un droïd
+
+Table Lieux
+	Médiéval-Fantastique
+		Un cachot
+		Un palais
+		Une ville
+		Une officine
+		Une forêt
+		Un hospice
+		Un temple
+		Une maison close
+		Une nef
+		Une taverne
+		Un sanctuaire
+		Des oubliettes
+		La salle du trône
+		Une échoppe
+		Une mine
+		Un antre de dragon
+		Un port
+		Une province
+		Un scriptorium
+	Début XXème siècle
+		Un bagne
+		Un palace
+		Une capitale
+		Un laboratoire
+		Une fête foraine
+		Un hôpital
+		Une église
+		Un tripot
+		Un dirigeable
+		Un cabaret
+		Un cimetière
+		Des catacombes
+		Un théatre
+		Une armurerie
+		Une fabrique
+		Un zoo
+		Un port
+		Une colonie
+		Une bibliothèque
+	Contemporain
+		Une prison
+		Un grand hôtel
+		Une métropole
+		Un laboratoire
+		Un parc d'attractions
+		Un hôpital
+		Une secte
+		Un casino
+		Un paquebot
+		Une boite de nuit
+		Une morgue
+		Des égouts
+		Un cinéma
+		Un supermarché
+		Une centrale nucléaire
+		Un grand monument
+		Un aéroport
+		Une base militaire
+		Une médiathèque
+	CyberPunk
+		Un pénitencier
+		Un motel
+		Une mégapole
+		Une banque d'organes
+		Un terrain vague
+		Un asile psychiatrique
+		Une néocathédrale
+		Une salle de jeu
+		Un spatiocargo
+		Un club
+		Un crématorium
+		Des égouts
+		Un holociné
+		Un souk
+		Une usine
+		La Matrice / Le Cyberespace
+		Un astroport
+		Un Q.G. corporatiste
+		Un central informatique
+	Post-Apocalyptique
+		Une prison
+		Un campement
+		Un ghetto
+		Un labo miteux
+		Une autoroute
+		Un dispensaire
+		Des ruines
+		Une arêne
+		Un convoi
+		Un oasis
+		Un cimetière
+		Un bunker
+		Un ancien cinéma
+		Un bazar
+		Un hangar
+		Une salle d'archives
+		Le métro
+		Une zone irradiée
+		L'antre d'un érudit
+	Space Opéra
+		Un bagne
+		Un satellite d'accueil
+		Une base spatiale
+		Un laboratoire
+		Une planète
+		Un vaisseau-hôpital
+		Un vaisseau fantôme
+		Un astéroïde de jeu
+		Une barge à voile
+		Un spatiobar
+		Un cryosanctorium
+		Un sanctuaire E.T.
+		Un conseil galactique
+		Un marché E.T.
+		Une station minière
+		Un astre inconnu
+		Un spatioport
+		Une lune artificielle
+		Un champs d'astéroïdes
+
+Table Interactions
+	Entre personnages
+		cherche à nuire à
+		demande de l'aide à
+		recherche / poursuit
+		veut tuer / veut détruire
+		veut soudoyer / veut séduire
+		veut (se faire) engager (par)
+		se fait passer pour
+		trouve / rencontre
+		interroge / torture
+		s'allie / conspire avec
+	Personnages et lieux
+		veut partir de / veut s'évader de
+		veut cambrioler / veut profaner
+		veut visiter / veut s'introduire dans
+		veut acheter / veut se saisir de
+		veut construire / veut installer
+		découvre
+		veut vendre / veut se débarrasser de
+		veut attaquer / veut détruire
+		se cache dans / erre dans
+

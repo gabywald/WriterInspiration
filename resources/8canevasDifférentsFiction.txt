@@ -1,0 +1,19 @@
+## 
+## L'écriture du scénario
+## Par Sylvain Delzant, Jean-Marc Lainé
+## Éditions Eyrolles
+## 9782212251128
+## => P14 (reprise intégrale "La guerre éternelle, suivi de la liberté éternelle..."
+## 
+## http://superdocforever.blogspot.fr/2006/02/fvrier-enfin.html ;--
+## Ces citations viennent de la postface de la géniale bande dessinée "La Guerre éternelle", écrite par Joe Haldeman et dessinée par Mark Marvano (éditions Dupuis). Les deux auteurs, dans leur correspondance, s'interrogent sur le succès ou l'échec de tel ou tel roman, telle ou telle bande dessinée, telle ou telle histoire. L'un explique qu'il y a une théorie selon laquelle il n'existe que huit canevas possibles pour la fiction, sur lesquels se basent tous les récits... Voici les huit possibilités... "Roméo & Juliette" : un garçon rencontre une fille, ou inversement, et la perd, la retrouve, etc. "Orphée aux Enfers" : la quête de quelqu'un ou quelque chose qui a disparu. "Cendrillon" : le Bien triomphe malgré les difficultés rencontrées au cours du récit. "Faust" : la Faute qui doit être expiée, le Destin qui frappe tôt ou tard. "Circé" : la femme fatale, l'araignée et la mouche... "Achille" : le défaut caché qui met en danger le héros. "Tristan et Yseult" : le triangle classique. "Le Juif errant" : le Voyageur qui n'atteindra jamais son but. Un certain Robin Blake vérifia la véracité de cette théorie des huit canevas. Il trouva un seul film rassemblant toutes les caractéristiques : "Casablanca", film d'ailleurs écrit et tourné dans l'urgence et un peu de bric et de broc...
+## 
+## "huit canevas différents pour la fiction :"
+- Roméo et Juliette : un garçon rencontre une fille, ou inversement, et la perd, la retrouve, etc.
+- Orphée aux enfers : la quête de quelqu'un ou quelque chose qui a disparu.
+- Cendrillon : le Bien triomphe malgré les difficultés rencontrées au cours du récit.
+- Faust : la Faute qui doit être expiée, le Destin qui frappe tôt ou tard.
+- Circée : la femme fatale, l'araignée et la mouche...
+- Achille : le défaut caché qui met en danger le héros.
+- Tristan et Yseult : le triangle classique.
+- Le Juif Errant : le voyageur qui n'atteindra jamais son but.

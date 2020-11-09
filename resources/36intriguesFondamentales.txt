@@ -1,0 +1,39 @@
+## Les intrigues fondamentales 
+## Chaque description courte d'intrigue commence par le titre (c.-à-d. le thème) du scénario. 
+## Après le tiret, il y a la liste des personnages principaux présents dans le scénario, chacun séparé par une virgule. 
+1. La Supplique – un Persécuteur, un Suppliant, un Pouvoir d'autorité
+2. La Libération – des Miséreux, une Menace, un Sauveur
+3. La Vengeance – un Vengeur, un Criminel
+4. La Vengeance d'une famille sur une autre – un Proche vengeur, un Proche coupable, un Membre de la famille
+5. La Poursuite – un Fugitif qui échappe à son châtiment, un Poursuivant
+6. La Victime de mauvais traitements ou d'un coup du sort – des Miséreux, un Maître ou une Personne malchanceuse
+7. Le Désastre – une Puissance vaincue, une Puissance victorieuse ou un Messager
+8. La Révolte – un Tyran, un (des) Comploteur(s)
+9. L'Entreprise risquée – un Chef audacieux, un But, un Adversaire
+10. L'Enlèvement – un Ravisseur, une Victime, un Protecteur
+11. L'Énigme – un Interrogateur, un Enquêteur, un Problème
+12. L'Objet convoité – deux (ou plus) Parties ennemies, un Objet (convoité), un Arbitre (optionnel)
+13. La Haine familiale – deux Membres de la famille qui se détestent
+14. La Rivalité familiale – un Proche préféré, un Proche rejeté, un Objet (de la rivalité)
+15. L'Adultère meurtrier – un Époux adultère, un Époux trompé, un Amant
+16. La Folie – un Fou, une Victime
+17. L'Imprudence mortelle – un Imprudent, une Victime ou un Objet perdu
+18. Les Crimes passionnels involontaires – un Amant, un Aimé, un Élément révélateur
+19. Le Proche qui tue un parent sans le savoir – un Tueur, une Victime non reconnue, un Élément révélateur
+20. Le Sacrifice de soi pour un idéal – un Héros, un Idéal, une Personne ou une Chose sacrifiée
+21. Le Sacrifice de soi pour son prochain – un Héros, un Proche, une Personne ou une Chose sacrifiée
+22. Le Sacrifice de tous pour la passion – un Amant, un Objet de la passion, une Personne ou une Chose sacrifiée
+23. Le Sacrifice des êtres chers – un Héros, une Victime bien-aimée, un Besoin de sacrifice
+24. La Rivalité entre Supérieur et Inférieur – un Supérieur, un Inférieur, un Objet (de la rivalité)
+25. L'Adultère – un Époux trompé, deux Amants
+26. Les Crimes passionnels – un Amant, un Bien-aimé, un thème de Décadence
+27. La Découverte du déshonneur d'un bien-aimé – un Découvreur, un Coupable
+28. Les Obstacles à l'amour – deux Amants, un Obstacle
+29. L'Ennemi adoré – un Ennemi bien-aimé, un Amant, un Être plein de haine
+30. L'ambition – un Ambitieux, une Chose convoitée, un Adversaire
+31. Le Conflit divin – un Mortel, un Immortel
+32. La Jalousie injustifiée – un Jaloux, un Objet (de la jalousie), un Complice présumé, un Responsable de l'erreur
+33. L'Erreur de jugement – une Personne prise pour une autre, une Victime du quiproquo, un Responsable du quiproquo, un Coupable
+34. Les Remords – un Coupable, une Victime, un Interrogateur
+35. Les Retrouvailles avec un être perdu – un Enquêteur, un Être retrouvé
+36. La Perte des êtres chers – un Proche assassiné, un Proche témoin, un Assassin
