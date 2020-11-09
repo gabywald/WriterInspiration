@@ -15,29 +15,29 @@ Chantage
 Chasse à l'homme
 Concours
 Course au trésor
-Défense  (Ils  ne  passeront  pas)
+Défense (Ils ne passeront pas)
 Déplacement (On est où là ?)
 Détournement
-Diplomatie  (Les  Bonnes  Manières)
+Diplomatie (Les Bonnes Manières)
 Effraction
-Enquête  (Élémentaire,  mon  cher  Watson)
+Enquête (Élémentaire, mon cher Watson)
 Étrange (comme c'est bizarre...)
 Exploration
 Fauteurs de troubles
-Gestion  (Au  travail!)
+Gestion (Au travail!)
 Grain de sable
-Harcèlement  (Qu'est-ce  qui  se  passe  ?)
+Harcèlement (Qu'est-ce qui se passe ?)
 Nettoyer la Zone
-Portail  (La  Boite  de  Pandore)
-Pourchasser  (Rattrapez-les  !)
+Portail (La Boite de Pandore)
+Pourchasser (Rattrapez-les !)
 Prison
 Quête
-Refuge  (Un  Abri  dans  la  Tempête)
+Refuge (Un Abri dans la Tempête)
 Ruines Récentes
 Safari
-Secours  (Ils  sont  en  Chemin)
-Surveillance  (Ne  Pas  Toucher)
-Survie  (Ne  Mangez  Pas  Les  Mauves)
+Secours (Ils sont en Chemin)
+Surveillance (Ne Pas Toucher)
+Survie (Ne Mangez Pas Les Mauves)
 Trésor !
 La Zone
-De  l'autre  côté  de  la  barrière
+De l'autre côté de la barrière
