@@ -11,7 +11,7 @@ __email__ = "gabywald[at]laposte.net"
 __contact__ = "gabywald[at]laposte.net"
 __status__ = "Development"
 
-## ## ## ## ## Generate some Ideas from associated resource !
+## ## ## ## ## Generate some Ideas from associated resource : "sousLesDesLideeJdR.txt" !
 
 import random
 

@@ -5,7 +5,7 @@ import ModuleHelper
 import re
 
 class DiceTable( object ) : 
-    """This class defines Tables Definitions. """
+    """This class defines Dice Tables Definitions. """
     
     def __init__(self, name = None ):
         """DiceTable Constructor. """

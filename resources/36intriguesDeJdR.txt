@@ -38,7 +38,7 @@ Course au trésor - Il y a à une endroit précis un Machin important et précie
 	Les autochtones demandent aux groupes en compétition de défendre publiquement leur point de vue.
 	Le Machin était en déplacement lorsque son transporteur s'est écrasé ou a disparu  
 Défense (Ils ne passeront pas) - Les PJs doivent garder un endroit vital (un col de montagne, un système solaire...) contre toute attaque. Ils doivent planifier une stratégie de défense, effectuer des rondes, placer des pièges, etc. et ensuite faire face à l'ennemi lors de l'attaque.
-	Les renseignements initiaux sont faux, mais agir sur la base des nouveaux renseignements pourrait être plus dangereux encore - mais l'inaction également, et les PJs doivent choisir ou trouver un compromis
+	Les renseignements initiaux sont faux, mais agir sur la base des nouveaux renseignements pourrait être plus dangereux encore, mais l'inaction également, et les PJs doivent choisir ou trouver un compromis
 	Les PJs apprennent que l'ennemi a une bonne raison de détruire ou de s'emparer de l'endroit vital, et les PJs peuvent y être sensible.  
 Déplacement (On est où là ?) - Les PJs se retrouvent transporté à un endroit étrange. Ils doivent comprendre où ils se trouvent, comment ils sont arrivés là et pourquoi, et comment s'en échapper.
 	Les ont été amené là pour aider quelqu'un en danger.
@@ -49,7 +49,7 @@ Détournement - Les PJs sont à bord d'un moyen de transport plein de monde (Paq
 	Les pirates ne réalisent pas qu'il y a un autre danger, et toute tentative de les convaincre est prise pour un mensonge.
 	Les autres passagers n'aident pas les PJs ou sont même hostiles car ils pensent que toute action ne fera qu'empirer les choses.  
 Diplomatie (Les Bonnes Manières) - Les PJs font partie d'une mission diplomatique qui cherche à ouvrir des relations politiques ou commerciales avec une étrange culture. Il leur suffit de ne pas faire de faux-pas et de n'offenser personne, mais ils ont des informations incomplètes ou fausses sur les coutumes du coin.
-	Les PJs ont été choisi par quelqu'un qui savait qu'ils n'étaient pas préparés - un PNJ qui essaie de saboter la mission (trouver le Méchant peut être nécessaire pour éviter un désastre)  
+	Les PJs ont été choisi par quelqu'un qui savait qu'ils n'étaient pas préparés, un PNJ qui essaie de saboter la mission (trouver le Méchant peut être nécessaire pour éviter un désastre)  
 Effraction - Objectif: entrer dans un endroit dangereux, démanteler les défenses du coin et s'emparer du Machin ou d'une personne importante.
 	Le but n'est pas de s'emparer d'un Machin, mais de le détruire, ou d'interrompre un processus (détruire le générateur de champ de force, assassiner le méchant roi, interrompre un rituel de lancement de sort, mettre par terre les plans d'invasions, refermer le portail)
 	L'objectif a bougé.
@@ -88,7 +88,7 @@ Gestion (Au travail!) - Les PJs sont mis à la tête d'une importante organisati
 	Les paysans, voisins, employés, etc. en veulent aux PJs car la raison de leur arrivée à la tête semble étrange, et tout le monde aimait les anciens dirigeants.  
 Grain de sable - Un Méchant ou une organisation prépare un truc méchant, et les PJs ont reçu un renseignement dessus. Ils doivent enquêter pour comprendre ce qui se passe et agir pour empêcher sa réalisation.
 	Le renseignement initial était en fait destiné à les lancer sur une fausse piste.
-	Il y a deux trucs méchants en préparation, et pas moyen d'arrêter les deux en même temps - comment choisir ?  
+	Il y a deux trucs méchants en préparation, et pas moyen d'arrêter les deux en même temps ; comment choisir ?  
 Harcèlement (Qu'est-ce qui se passe ?) - Les PJs sont soudainement attaqués ou menacés sans qu'ils comprennent pourquoi. Ils doivent comprendre les motifs des attaquants tout en repoussant leurs attaques. Ils doivent ensuite résoudre le problème.
 	Les PJs sont sans le savoir en possession d'un Machin que veulent les Méchants.
 	Les Méchants cherchent à se venger de la mort d'un compatriote lors d'une aventure précédente.
@@ -106,11 +106,11 @@ Portail (La Boite de Pandore) - Quelqu'un a joué avec un Machin Auquel Il Ne Fa
 	Intrigue cousine: le voyage dans le passé qui a modifié le présent  
 Pourchasser (Rattrapez-les !) - Des Méchants sont arrivés et ont fait des Méchantes Choses. Les PJs n'ont rien pu empêcher. Les Méchants ont réussit à s'échapper, et les PJs ont réussit à les prendre en chasse et doivent les rattraper avant qu'ils rejoignent leur repaire, leur pays d'origine, les lignes ennemies, etc.
 	Les Méchants se sont enfuit en utilisant un moyen de transport ou une route que les PJs connaissent mieux qu'eux.
-	Les Méchants se cachent temporairement dans un endroit (souvent hostile aux PJs
+	Les Méchants se cachent temporairement dans un endroit (souvent hostile aux PJs)
 	Si les Méchants franchissent la ligne d'arrivée (la frontière, le portail dimensionnel, etc.) on ne pourra pas les poursuivre au-delà  
 Prison - Les PJs sont emprisonnés, et doivent s'échapper, malgré les gardes, les dispositifs de sécurité, et l'isolation géographique.
 	Quelque chose s'est passé à l'extérieur et la surveillance est relâchée.
-	Les PJs sont engagés pour "tester" la prison - ils ne sont pas des prisonniers normaux.
+	Les PJs sont engagés pour "tester" la prison : ils ne sont pas des prisonniers normaux.
 	D'autres prisonniers décident d'avertir les gardes par dépit ou par vengeance
 	Les PJs espionnent un autre prisonnier, mais on les prend pour de vrais prisonniers et ils sont incarcérés.
 	Les PJs doivent faire vite pour rejoindre une autre aventure à l'extérieur. 
@@ -127,7 +127,7 @@ Refuge (Un Abri dans la Tempête) - Les PJs cherche un abri pour se protéger de
 Ruines Récentes - Une ville, château, vaisseau, campement, ou autre construction civilisée est en ruine. Alors qu'elle était en bon état encore récemment. Les PJs doivent entrer dans les ruines, les explorer, et découvrir ce qui s'est passé.
 	Ce qui a détruit l'endroit (Méchants, radiations, monstres, race inconnue, fantômes) est toujours une menace; Les PJs doivent l'éliminer.
 	La "Ruine" est un vaisseau abandonné récemment découvert.
-	La "Ruine" est une ville fantôme découverte au détour du chemin - mais la carte dit que c'est une ville normale.  
+	La "Ruine" est une ville fantôme découverte au détour du chemin, mais la carte dit que c'est une ville normale.  
 Safari - Les PJs sont en expédition de chasse, pour capturer ou tuer une créature. Les problèmes sont liés à l'environnement, l'aptitude de la créature à leur échapper, et peut-être à les combattre.
 	La créature est immunisée à leurs équipements ou à leurs armes
 	D'autres personnes protègent activement la créature.
