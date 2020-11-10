@@ -8,36 +8,178 @@
 ## 
 ## Note: Les "Intrigues" sont organisées par ordre alphabétique du titre. Comme les titres sont arbitraires, l'ordre ne veut absolument rien dire (NdT: et comme en plus je me suis permis de changer les titres, et de les retrier en français, cela ne veut encore plus rien dire! :-). Et si vous voulez des trucs plus sérieux, allez donc voir les arbres décisionnels, “Les Trente-Six Situations dramatiques” (Georges Polti, 1924), les 200'000 situations dramatiques (Etienne Souriau, 1950), le Writer's Digest et d'autres trucs littéraires sérieux. On n'est pas à la Sorbonne ici.
 ## 
-Amnésie
-Base Cachée
-Capturer le Drapeau
-Chantage
-Chasse à l'homme
-Concours
-Course au trésor
-Défense (Ils ne passeront pas)
-Déplacement (On est où là ?)
-Détournement
-Diplomatie (Les Bonnes Manières)
-Effraction
-Enquête (Élémentaire, mon cher Watson)
-Étrange (comme c'est bizarre...)
-Exploration
-Fauteurs de troubles
-Gestion (Au travail!)
-Grain de sable
-Harcèlement (Qu'est-ce qui se passe ?)
-Nettoyer la Zone
-Portail (La Boite de Pandore)
-Pourchasser (Rattrapez-les !)
-Prison
-Quête
-Refuge (Un Abri dans la Tempête)
-Ruines Récentes
-Safari
-Secours (Ils sont en Chemin)
-Surveillance (Ne Pas Toucher)
-Survie (Ne Mangez Pas Les Mauves)
-Trésor !
-La Zone
-De l'autre côté de la barrière
+Amnésie - Un PJ ou plus se réveillent sans souvenirs récents, et se retrouvent au coeur d'un problème qu'ils ne comprennent pas. Ils doivent trouver la raison de cette amnésie, et résoudre les problèmes.
+	Les PJs se sont rendus amnésiques volontairement, et essayent de comprendre leur propre travail  
+Base Cachée - Les PJs, au cours d'un voyage ou d'une exploration, tombent sur un nid de Méchant qui préparent un Truc Méchant. Ils doivent relayer l'information aux Gentils, ou s'infiltrer et démanteler l'opération eux-mêmes, ou une combinaison des deux.
+	Les PJs doivent comprendre comment utiliser des ressources locales pour se défendre ou avoir une chance contre les habitants.  
+Capturer le Drapeau - Les PJs doivent s'emparer d'un objectif militaire. Les Méchants du coin s'y opposent. Le scénario tactique habituel.
+	Les PJs doivent rassembler et/ou entraîner une force pour les aider.
+	Les PJs ont de fausses informations et l'objectif ou son environnement immédiat ne sont pas comme ils s'y attendaient.
+	Les PJs et un groupe allié doivent unir leurs efforts (parfois en mettant leurs rivalités de côté)
+	La zone de l'objectif comporte une population innocente, des Machins fragiles, ou des trucs précieux qui ne doivent pas être pris entre deux feux  
+Chantage - Un Méchant a obtenu une information (illégalement, ou simplement en recherchant dans le passé des PJs) lui permettant de faire du chantage aux PJs. La menace peut être de tout type (physique, sociale, etc.) mais elle dépend du fait que le Méchant est en possession de quelque chose (objet ou information) que d'autres n'ont pas. Maintenant il tire les ficelles et ordonne aux PJs de faire des choses qu'ils ne veulent pas faire. Les PJs doivent mettre fin à ce chantage, lui ôter son avantage, tout en suivant ses instructions et en endormant sa méfiance.
+	En introduction de l'aventure, les PJs rendent un service au Méchant, qui l'utilise alors contre eux (très cynique!)
+	Pour réussir, les PJs doivent contacter d'autres personnes victimes du même chantage.
+	Les PJs ne sont pas directement victime du chantage, mais une personne qui est important à leurs yeux ou dont ils ont la charge l'est.  
+Chasse à l'homme - Quelqu'un est parti: échappé, perdu, ou disparu. Quelqu'un a besoin de le retrouver. Les PJs sont appelés pour le retrouver et le ramener.
+	L'objectif a été kidnappé (peut-être pour attirer les PJs).
+	L'objectif est dangereux et s'est échappé d'une prison.
+	L'objectif est précieux et s'est échappé d'un endroit sûr, confortable et surveillé
+	L'objectif s'est empêtré dans une autre aventure (comme protagoniste ou comme victime) et les PJs doivent le suivre pour l'en dépêtrer.
+	L'objectif est un groupe en expédition ou en pèlerinage
+	L'objectif ne s'est pas échappé/perdu, les PJs ont juste été engagés (peut-être sous de faux prétextes) pour le retrouver. 
+Concours - Les PJs participent à une course, un concours, un tournoi, une chasse ou un autre sport. Ils doivent gagner.
+	Les autres participants sont malhonnêtes et les PJs doivent les empêcher de gagner malhonnêtement
+	Les PJs ont un autre objectif que la victoire, comme protéger un autre concurrent, ou l'espionner, ou juste accéder à un endroit où passe la course.
+	Les PJs n'ont pas à gagner eux-mêmes; ils doivent juste empêcher le Méchant de gagner.
+	L'évènement est une test délibéré des aptitudes des PJs (pour les faire entrer dans une organisation par exemple).
+	L'évènement devient plus mortel que ce qu'il était supposé être.  
+Course au trésor - Il y a à une endroit précis un Machin important et précieux. Les PJs (ou leurs employeurs) veulent s'en emparer, mais d'autres groupes également. Pour avoir une chance de réussir il faut être plus intelligent, plus rapide, utiliser au mieux les autochtones, être mieux renseigné sur l'objectif. Chaque groupe en compétition a son propre agenda et ses propres ressources.
+	Les autochtones demandent aux groupes en compétition de défendre publiquement leur point de vue.
+	Le Machin était en déplacement lorsque son transporteur s'est écrasé ou a disparu  
+Défense (Ils ne passeront pas) - Les PJs doivent garder un endroit vital (un col de montagne, un système solaire...) contre toute attaque. Ils doivent planifier une stratégie de défense, effectuer des rondes, placer des pièges, etc. et ensuite faire face à l'ennemi lors de l'attaque.
+	Les renseignements initiaux sont faux, mais agir sur la base des nouveaux renseignements pourrait être plus dangereux encore - mais l'inaction également, et les PJs doivent choisir ou trouver un compromis
+	Les PJs apprennent que l'ennemi a une bonne raison de détruire ou de s'emparer de l'endroit vital, et les PJs peuvent y être sensible.  
+Déplacement (On est où là ?) - Les PJs se retrouvent transporté à un endroit étrange. Ils doivent comprendre où ils se trouvent, comment ils sont arrivés là et pourquoi, et comment s'en échapper.
+	Les ont été amené là pour aider quelqu'un en danger.
+	Ils ont été amené là par accident, un effet secondaire de quelque chose d'étrange et de secret.
+	Des ennemis des PJs ont été transportés avec les PJs (ou séparément), et ils se retrouvent sur un nouveau terrain de bataille, et parmi de nouveaux innocents qui ne savent pas qui sont les Gentils et les Méchants  
+Détournement - Les PJs sont à bord d'un moyen de transport plein de monde (Paquebot, Ferry, Vaisseau-Colonie) quand il fait l'objet d'un détournement. Les PJs doivent agir pendant que les autres passagers subissent.
+	Les "Pirates" sont des agents du gouvernement faisant partie d'une intrigue complexe, et les PJs doivent choisir leur camp
+	Les pirates ne réalisent pas qu'il y a un autre danger, et toute tentative de les convaincre est prise pour un mensonge.
+	Les autres passagers n'aident pas les PJs ou sont même hostiles car ils pensent que toute action ne fera qu'empirer les choses.  
+Diplomatie (Les Bonnes Manières) - Les PJs font partie d'une mission diplomatique qui cherche à ouvrir des relations politiques ou commerciales avec une étrange culture. Il leur suffit de ne pas faire de faux-pas et de n'offenser personne, mais ils ont des informations incomplètes ou fausses sur les coutumes du coin.
+	Les PJs ont été choisi par quelqu'un qui savait qu'ils n'étaient pas préparés - un PNJ qui essaie de saboter la mission (trouver le Méchant peut être nécessaire pour éviter un désastre)  
+Effraction - Objectif: entrer dans un endroit dangereux, démanteler les défenses du coin et s'emparer du Machin ou d'une personne importante.
+	Le but n'est pas de s'emparer d'un Machin, mais de le détruire, ou d'interrompre un processus (détruire le générateur de champ de force, assassiner le méchant roi, interrompre un rituel de lancement de sort, mettre par terre les plans d'invasions, refermer le portail)
+	L'objectif a bougé.
+	L'objectif est une information qui doit être diffusée dès qu'elle est trouvée.
+	Le boulot doit être fait sans alerter personne.
+	Les PJs ne savent pas que l'endroit est dangereux
+	Les PJs doivent remplacer le Machin par un autre Machin  
+Enquête (Élémentaire, mon cher Watson) - Un crime ou une atrocité ont été commis. Les PJs doivent résoudre l'affaire. Ils doivent interviewer les témoins (et empêcher qu'ils soient tués), rassembler des indices (et empêcher qu'ils soient volés ou effacés). Ils doivent ensuite rassembler des preuves à livrer aux autorités, ou faire eux-même justice.
+	Les PJs doivent laver un innocent de tout soupçon (peut-être eux-mêmes)
+	Les PJs doivent travailler de concert avec un enquêteur spécial, ou se retrouvent avec un allier indésirable.
+	Au milieu de l'aventure, on leur enlève l'enquête (souvent suite à une manoeuvre d'un antagoniste)
+	La scène finale se déroule au tribunal
+	L'échelle pour ce type d'aventure est très variable, du meurtre de bourgade au scandale de pollution à l'échelle planétaire.  
+Escorte - Les PJs escorte un Machin précieux (objet ou personne) qui doit faire un voyage pour atteindre un endroit sûr ou son propriétaire. Le voyage est dangereux, et une ou plusieurs factions (ou des mésaventures) essayent de leur soustraire le Machin.
+	Le Machin est une source de problème, et cherche à s'échapper ou à doubler les PJs
+	La destination a été détruite ou prise par l'ennemi, et les PJs finir eux-même le travail que le Machin devait accomplir en arrivant là-bas.
+	La personne essaye de changer de camp.
+	L'arrivée à destination n'est pas la fin de l'histoire; Les PJs doivent négocier un échange entre leur Machin et un autre Machin (échanger des otages contre de l'argent par exemple).
+	Les PJs doivent protéger le Machin sans que le Machin s'en aperçoive  
+Étrange (comme c'est bizarre...) - Quelque chose de mauvais et d'inexplicable est en train de se produire (tension raciale, coupure de courant, plus de bière, neige en juillet, des hordes d'aliens mangent tout le fromage) et beaucoup de gens sont dérangés par cela. Ils PJs doivent remonter à la source du phénomène et y remédier.
+	Les PJs sont responsables sans le savoir de la situation.
+	Le problème est en fait d'une nature différence de sa nature apparente (technologique, personnelle, biologique, chimique, magique, politique, etc.).  
+Exploration - Les PJs sont des explorateurs, et leur objectif est d'entrer dans un territoire inconnu et de l'explorer. Bien-sûr il y a un danger fascinant quelque part.
+	L'endroit lui-même est la menace, et les PJs doivent remplir leur mission tout en restant en bonne santé, y compris mentale et financière.
+	L'endroit est merveilleux et très précieux, et quelque chose d'autre essaye de faire en sorte que les PJs ne le fasse savoir à personne.
+	Une menace qui endommage les transports ou les équipements de communication des PJs transforme cette intrigue en Survie  
+Fauteurs de troubles - Un Méchant (ou un groupe de Méchant, ou plusieurs groupes) sème l'anarchie, dérangeant le voisinage, empoisonnant les réservoirs, etc. Les PJs doivent voir sur place, localiser le Méchant et l'arrêter.
+	Les PJs ne doivent pas blesser le Méchant, il doit être ramené vivant et en bonne santé
+	Le Méchant a préparé quelque chose de dangereux et de caché au cas où il serait capturé
+	Le Méchant est un monstre ou un animal dangereux (ou une créature intelligente que tout le monde prend pour un monstre ou un animal)
+	Le Méchant est un personnage public respecté, un officier supérieur, ou quelqu'un qui abuse de son autorité, et les PJs pourraient être confronté à l'hostilité des locaux qui ne peuvent croire que le Méchant soit Méchant.
+	Les troubles sont alimentés par un équilibre des pouvoirs, et les PJs doivent choisir leur camp pour faire pencher la balance d'un côté et remettre les choses dans l'ordre.
+	Les troubles sont diplomatiques ou politiques, et les PJs doivent rétablir la paix, pas la guerre. 
+Gestion (Au travail!) - Les PJs sont mis à la tête d'une importante organisation (une entreprise, une baronnie féodale, la CIA) et doivent, malgré leur manque d'expérience en la matière, la faire fonctionner et prospérer
+	Les PJs ont été mis là parce que quelque chose d'important va arriver, et la Vieille Garde veut s'échapper
+	Les paysans, voisins, employés, etc. en veulent aux PJs car la raison de leur arrivée à la tête semble étrange, et tout le monde aimait les anciens dirigeants.  
+Grain de sable - Un Méchant ou une organisation prépare un truc méchant, et les PJs ont reçu un renseignement dessus. Ils doivent enquêter pour comprendre ce qui se passe et agir pour empêcher sa réalisation.
+	Le renseignement initial était en fait destiné à les lancer sur une fausse piste.
+	Il y a deux trucs méchants en préparation, et pas moyen d'arrêter les deux en même temps - comment choisir ?  
+Harcèlement (Qu'est-ce qui se passe ?) - Les PJs sont soudainement attaqués ou menacés sans qu'ils comprennent pourquoi. Ils doivent comprendre les motifs des attaquants tout en repoussant leurs attaques. Ils doivent ensuite résoudre le problème.
+	Les PJs sont sans le savoir en possession d'un Machin que veulent les Méchants.
+	Les Méchants cherchent à se venger de la mort d'un compatriote lors d'une aventure précédente.
+	Les Méchants se sont trompés et ont pris les PJs pour quelqu'un d'autre.  
+Nettoyer la Zone - Y'a un endroit avec des Choses Méchantes. Les PJs doivent les éliminer systématiquement pour assurer la sécurité des Gentils.
+	Les Choses Méchantes ne peuvent pas être battues par une confrontation directe.
+	Les PJs doivent d'abord en apprendre plus pour elles pour résoudre le problème.
+	La Maison Hantée.
+	L'Invasion Extra-Terrestre.
+	La Forêt Sauvage.  
+Portail (La Boite de Pandore) - Quelqu'un a joué avec un Machin Auquel Il Ne Fallait Pas Toucher, ou ouvert un portail vers une Dimension Infernale, ou éventré le mur d'une prison, ou invoqué un Grand Ancien dans un bordel. Avant de se confronter à la source du problème, les PJs doivent s'occuper des vagues de problèmes échappés du Machin: monstres, anciens ennemis vengeurs, aliens étranges qui mangent tout ce qui passe, etc.
+	Il faut que les PJs rassemblent les problèmes échappés et les renvoient à leur origine avant la fin de l'aventure.
+	Les PJs sont attirés par la Source et doivent résoudre des problèmes de l'autre côté avant de retourner dans leur dimension
+	Un livre secret, un code, ou un autre truc rare est nécessaire pour colmater la brèche (peut-être simplement celui qui l'a ouvert)
+	Intrigue cousine: le voyage dans le passé qui a modifié le présent  
+Pourchasser (Rattrapez-les !) - Des Méchants sont arrivés et ont fait des Méchantes Choses. Les PJs n'ont rien pu empêcher. Les Méchants ont réussit à s'échapper, et les PJs ont réussit à les prendre en chasse et doivent les rattraper avant qu'ils rejoignent leur repaire, leur pays d'origine, les lignes ennemies, etc.
+	Les Méchants se sont enfuit en utilisant un moyen de transport ou une route que les PJs connaissent mieux qu'eux.
+	Les Méchants se cachent temporairement dans un endroit (souvent hostile aux PJs
+	Si les Méchants franchissent la ligne d'arrivée (la frontière, le portail dimensionnel, etc.) on ne pourra pas les poursuivre au-delà  
+Prison - Les PJs sont emprisonnés, et doivent s'échapper, malgré les gardes, les dispositifs de sécurité, et l'isolation géographique.
+	Quelque chose s'est passé à l'extérieur et la surveillance est relâchée.
+	Les PJs sont engagés pour "tester" la prison - ils ne sont pas des prisonniers normaux.
+	D'autres prisonniers décident d'avertir les gardes par dépit ou par vengeance
+	Les PJs espionnent un autre prisonnier, mais on les prend pour de vrais prisonniers et ils sont incarcérés.
+	Les PJs doivent faire vite pour rejoindre une autre aventure à l'extérieur. 
+Quête - Quelqu'un a besoin d'un Machin (pour compléter la prophétie, soigner le roi, empêcher la guerre, soigner une maladie, etc.). Les PJs doivent trouver le Machin. C'est souvent un Machin vieux, mystérieux, et puissant. Les PJs doivent en apprendre plus dessus pour le trouver, puis doivent s'en emparer.
+	Le Machin est incomplet lorsqu'il est trouvé (l'une des intrigues les plus irritantes et pas-drôle de tout l'univers).
+	Quelqu'un possède le Machin (ou l'a volé récemment, parfois pour une raison ou une cause légitime).
+	Le Machin est une information, ou une idée, ou une substance, pas un objet spécifique.
+	Les PJs doivent infiltrer un groupe ou une société, et s'emparer du Machin discrètement  
+Refuge (Un Abri dans la Tempête) - Les PJs cherche un abri pour se protéger des éléments ou d'une autre menace, et trouvent un endroit où se réfugier. Ils découvrent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et doivent résoudre le problème pour pouvoir enfin se reposer.
+	L'abri abrite également la source de la menace que les PJs cherchaient à éviter.
+	L'abri est une Base Cachée (voir ce terme).
+	Les PJs doivent lutter non seulement pour s'abriter, mais aussi pour survivre.
+	L'abri est un abri légitime, mais les PJs ne sont pas les bienvenus, et doivent conquérir les coeurs ou les esprits pour être acceptés  
+Ruines Récentes - Une ville, château, vaisseau, campement, ou autre construction civilisée est en ruine. Alors qu'elle était en bon état encore récemment. Les PJs doivent entrer dans les ruines, les explorer, et découvrir ce qui s'est passé.
+	Ce qui a détruit l'endroit (Méchants, radiations, monstres, race inconnue, fantômes) est toujours une menace; Les PJs doivent l'éliminer.
+	La "Ruine" est un vaisseau abandonné récemment découvert.
+	La "Ruine" est une ville fantôme découverte au détour du chemin - mais la carte dit que c'est une ville normale.  
+Safari - Les PJs sont en expédition de chasse, pour capturer ou tuer une créature. Les problèmes sont liés à l'environnement, l'aptitude de la créature à leur échapper, et peut-être à les combattre.
+	La créature est immunisée à leurs équipements ou à leurs armes
+	D'autres personnes protègent activement la créature.
+	L'antre de la créature propulse les PJs vers une autre aventure.  
+Secours (Ils sont en Chemin) - Une personne (communauté, nation, galaxie) est en danger et doit être secourue par les PJs. L'introduction peut simplement être un appel au secours ou un signal de détresse.
+	La/Les Victime(s) est/sont retenue/s en otage, ou assiégée/s par l'ennemi, et les PJs doivent s'occuper des ravisseurs ou forcer le blocus.
+	Il est possible que les secours se retrouvent dans la même situation que les personnes en détresse, multipliant le problème.
+	Il faut secourir non pas des gens, mais des animaux, robots, ou autre chose
+	La "victime" ne réalise pas qu'elle a besoin d'être secourue; elle se croit en sécurité
+	La menace n'est pas liée à des Méchants mais à une catastrophe naturelle, nucléaire, ou une épidémie
+	Les personnes en détresse ne peuvent pas bouger; il faut faire ou s'occuper de quelque chose sur place.
+	Les PJs font partie des personnes en détresse au début de l'aventure, et doivent s'échapper pour rassembler des forces ou des ressources et secourir ceux qui sont restés sur place. 
+Surveillance (Ne Pas Toucher) - Les PJs font de la surveillance : espionner une personne, rassembler de l'information sur un animal sauvage, explorer un nouveau secteur. Quelle que soit l'échelle, il est impératif qu'ils ne soient pas repérés.
+	L'objectif a des problèmes et les PJs doivent décider qu'ils le secourent ou pas  
+Survie (Ne Mangez Pas Les Mauves) - Les PJs s'échouent dans un endroit bizarre, et doivent survivre en trouvant nourriture et abri, puis essayer de regagner leur maison.
+	Les PJs doivent survivre le temps que de l'aide arrive, qu'un truc soit réparé, etc.
+	Dans les scénarios Réparations, les PJs doivent parfois découvrir un truc dans le coin qui rendra permettra d'effectuer les réparations  
+Trésor ! - Les PJs sont des chasseurs de trésor, qui ont entendu parler d'une ruine où il y aurait un trésor. Ils doivent l'explorer, s'occuper des trucs pas naturels du coin pour s'emparer du trésor et ressortir vivants.
+	Le trésor lui-même est dangereux.
+	Le trésor n'est pas situé dans une ruine, mais dans la nature, ou même caché dans un endroit civilisé.
+	Le trésor appartient légitimement à quelqu'un d'autre.
+	Le trésor a une volonté propre.  
+La Zone - Les PJs doivent traverser une zone dangereuse sans être tué, volé, humilié, contaminé, par ce qui s'y trouve. Les problèmes sont rarement d'une nature personnelle ; c'est l'endroit lui-même qui est le Méchant de l'aventure.
+	L'endroit n'est en fait pas dangereux du tout, et les "dangers" sont en fait des tentatives de prises de communication vers les PJs.  
+De l'autre côté de la barrière - Toutes les intrigues peuvent être transformées en mettant les PJs à l'extérieur. Soit les PJs accompagnent des PNJs au milieu de l'intrigue (et ils n'y entraînent pas les PJs qui doivent juste les défendre), ou les PJs assistent à une intrigue impliquant des PNJs et ils doivent choisir leur camp ou résister.
+	Les PJs se trouvent dans le rôle des PNJs (les Méchants, les Fugitifs, etc.): au lieu de pourchasser, ils sont les Pourchassés; au lieu d'éliminer, ils doivent ne pas être éliminés.
+	Ne pas toucher à l'intrigue de base, mais inverser les variations.  
+Réparations - Les PJs doivent réparer leur matériel, leur abri...
+Variantes Globales - ...
+	Les PJs doivent collaborer avec un PNJ ou une organisation qu'ils préfèrent éviter en temps normal (des rivaux, des Méchants, ou juste un expert insupportable envoyé pour les "aider"). 
+	Les Victimes sont en fait les Méchants et inversement. 
+	Les PJs rencontrent des PNJs qui acceptent de les aider à condition qu'eux-mêmes les aident pour leur propre cause. 
+	Le Méchant est quelqu'un que les PJs connaissent personnellement, voire respectent ou aiment (ou quelqu'un qu'ils rencontrent en cours de route et trouvent sympathique). 
+	Les PJs doivent réussir sans violence, ou avec une discrétion particulière. 
+	Les PJs doivent réussir sans utiliser les pouvoirs, équipements ou autres ressources auxquels ils ont habituellement accès.
+	Le Méchant est un méchant récurrent 
+	Un autre groupe comparable aux PJs a déjà raté la mission, et leurs corps/équipements/etc. fournissent aux PJs des indices pour faire mieux. 
+	Il y a des innocents aux alentours que les PJs doivent protéger tout en progressant. 
+	In media res => L'aventure commence brutalement sans introduction, les PJs sont directement au coeur de l'action. 
+	Les PJs doivent se faire passer pour d'autres, ou bien faire semblant d'avoir des allégeances, des valeurs ou des goûts différents. 
+	Les PJs ne peuvent pas tout faire et doivent choisir: quel Mal arrêter ? Quels innocents secourir ? Quelle valeur ou idéal promouvoir ? 
+	Les PJs doivent être un sacrifice personnel ou d'autres souffriront. 
+	Les PJs ne doivent pas résoudre le problème, mais aider avec le problème en toile de fond: faire passer une cargaison de vivres, faire sortir un patient qui a besoin d'aide médicale, etc. 
+	Un des PJs est (ou est présumé être) un héritier perdu, la réalisation d'une prophétie, un dieu du volcan, ou un sauveur quelconque, et est la raison pour laquelle les PJs sont embarqués dans l'aventure. 
+	Un autre groupe comparable aux PJs est en compétition avec eux sur la même aventure, peut-être avec des objectifs très différents. 
+## 
+## Notes complémentaires : 
+## ## ## Expériementez : Choisissez deux intrigues au hasard, et imaginez une aventure avec elles, tout naturellement - la première servant d'introduction, la seconde de plat principal. Si la même intrigue sort deux fois, allez-y quand même ! Deux couches peuvent avoir une structure similaire mais des racines et des détails très différents. 
+## ## ## Double Couche : Un principe de base intéressant est le jeu caméléon, où une aventure semble être d'un certain genre mais se révèle être autre chose. Parfois le passage de l'un à l'autre est innocent est naturel - Survie, par exemple, peut servir d'introduction à La Zone, et Etrange est une introduction logique à Portail. Parfois le passage est plus sinistre ou délibéré, avec des PNJs qui vendent une mission d'un type alors qu'on comprend ensuite qu'il se passe autre chose. Cela peut tout de même être innocent, si les PNJs se sont trompés, ou s'ils avaient désespérément besoin d'aide et craignait que personne ne vienne résoudre leur véritable problème. 
+## ## ## Double Couche, acte 2 : Une autre catégorie très intéressante de scénarios est l'enchevêtrement de deux intrigues séparées. Il est aisé par exemple de faire de l'une des intrigues l'intrigue physique et de l'autre l'intrigue personnelle. Ainsi seulement l'une des intrigues influence le lieu de l'action, tandis que l'autre peut avoir lieu n'importe où. Par exemple: les PJs sont engagés pour escorter un prince à un sommet pour qu'il puisse apparaître devant le peuple et mettre fin à une guerre (un exemple simple et physique d'Escorte), mais en chemin ils réalisent que le gars a des tendances suicidaires car les obligations de sa charge ont ruiné son histoire d'amour, et ils doivent l'empêcher de mettre fin à ses jours soit en arrangeant ses histoires, soit en le convaincant de passer à autre chose (un exemple personnel et métaphorique du Grain de Sable).
+## ## ## 
+## ## ## 
+## 
+## 
+##  
