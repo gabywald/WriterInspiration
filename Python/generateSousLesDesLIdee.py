@@ -13,39 +13,13 @@ __status__ = "Development"
 
 ## ## ## ## ## Generate some Ideas from associated resource !
 
-import ModuleHelper
-import re, random
+import random
 
 from DiceTable import DiceTable
 
-tables = {}
+tables = DiceTable.load()
 types = []
 
-data = ModuleHelper.loadConfig( "sousLesDesLideeJdR" )
-
-nextTable = None
-nextSubTable = None
-for line in data : 
-    resultTableHead = re.match( "^Table (.*?)$", line)
-    resultSubTableHead = re.match( "^\t(.*?)$", line )
-    resultSubTableContent = re.match( "^\t\t(.*?)$", line )
-    if (resultTableHead != None) : 
-        if (nextTable != None) : 
-            nextTable.appendSubTable( nextSubTable )
-            tables[ nextTable.name ] = nextTable
-            nextSubTable = None
-        nextTable = DiceTable( resultTableHead.groups()[0] )
-    elif ( (resultSubTableContent != None) and (nextSubTable != None) ) : 
-        nextSubTable.appendContent( resultSubTableContent.groups()[0] )
-    elif ( (resultSubTableHead != None) ) : 
-        if (nextSubTable != None) : 
-            nextTable.appendSubTable( nextSubTable )
-        nextSubTable = DiceTable( resultSubTableHead.groups()[0] )
-if (nextTable != None) : 
-    tables[ nextTable.name ] = nextTable 
-if (nextSubTable != None) : 
-    nextTable.appendSubTable( nextSubTable ) 
- 
 ## print( tables )
 ## for table in tables : 
 ##     print ( "\t%s\t%s" %( table, tables[ table ] ) )
