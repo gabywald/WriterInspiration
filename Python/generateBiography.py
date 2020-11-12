@@ -16,8 +16,16 @@ __status__ = "Development"
 import random
 
 from BiographicTable import BiographicTable
+from BiographicTable import selectRandomBiographic
+from BiographicTable import selectBiographicElements
 
 tables = BiographicTable.load()
 
 ## print( tables )
+## print( selectRandomBiographic( tables ) )
+
+res = selectBiographicElements( 3 )
+
+for elt in res : 
+    print( "%s => %s" %( ", ".join( elt.contents), ";".join( elt.addins ) ) )
 
