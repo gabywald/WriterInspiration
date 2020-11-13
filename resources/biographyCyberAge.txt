@@ -32,8 +32,8 @@ Table Prison
 	Vous êtes emprisonné(e) dans un pénitencier. Vous vous évadez au bout de deux ans.  
 	Vous êtes emprisonné(e) dans un pénitencier. Vous tentez de vous évader et vous échouez. Vous sortez au bout de trois ans. 	[Cicatrices]
 	Vous passez trois ans sur un astéroïde minier. 	[Cicatrices]
-	Vous passez trois ans sur un astéroïde minier. 	[Resistance-1]	{talent:Déplacement spatial=1;talent:Survie dans l'espace=1}
-	Vous passez cinq ans en mine sous-marine. 	[Coeur-1]	{talent:Plongée=+1;talent:Survie sous-marine=+1}
+	Vous passez trois ans sur un astéroïde minier. 	{talent:Déplacement spatial=1;talent:Survie dans l'espace=1;Resistance-1}
+	Vous passez cinq ans en mine sous-marine. 	{talent:Plongée=+1;talent:Survie sous-marine=+1;Coeur-1}
 
 Table Cicatrices
 		[Cicatrices-localisation]+[Cicatrices-gravité]

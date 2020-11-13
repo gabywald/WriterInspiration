@@ -11,7 +11,7 @@ __email__ = "gabywald[at]laposte.net"
 __contact__ = "gabywald[at]laposte.net"
 __status__ = "Development"
 
-## ## ## ## ## Generate some Ideas from associated resource : "biographyCyberAge.txt" !
+## ## ## ## ## Generate some Ideas from associated resources !
 
 import random
 
@@ -19,13 +19,20 @@ from BiographicTable import BiographicTable
 from BiographicTable import selectRandomBiographic
 from BiographicTable import selectBiographicElements
 
-tables = BiographicTable.load()
+biotables = BiographicTable.loadBiographicsTables()
+jobs = BiographicTable.loadJobsToSkills()
+talents = BiographicTable.loadSkills()
 
-## print( tables )
-## print( selectRandomBiographic( tables ) )
+## print( biotables )
+## print( selectRandomBiographic( biotables ) )
+## print( jobs )
+## for elt in jobs : 
+##     print( jobs[ elt ] )
+## print( talents )
+## for elt in talents : 
+##     print( talents[ elt ] )
 
 res = selectBiographicElements( 3 )
 
 for elt in res : 
     print( "%s => %s" %( ", ".join( elt.contents), ";".join( elt.addins ) ) )
-
