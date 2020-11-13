@@ -21,7 +21,7 @@ from BiographicTable import selectBiographicElements
 
 biotables = BiographicTable.loadBiographicsTables()
 jobs = BiographicTable.loadJobsToSkills()
-talents = BiographicTable.loadSkills()
+skills = BiographicTable.loadSkills()
 
 ## print( biotables )
 ## print( selectRandomBiographic( biotables ) )
@@ -32,7 +32,33 @@ talents = BiographicTable.loadSkills()
 ## for elt in talents : 
 ##     print( talents[ elt ] )
 
-res = selectBiographicElements( 3 )
+numberOfResults = 10
+
+res = selectBiographicElements( numberOfResults )
 
 for elt in res : 
-    print( "%s => %s" %( ", ".join( elt.contents), ";".join( elt.addins ) ) )
+    print( "%s " %( elt.contents[1] ) )
+    for item in elt.addins : 
+        if (item.startswith( "talent:" ) ) : 
+            if (item == "talent:*"):
+                 skill = random.choice(list(skills.values()))
+            else : 
+                job = item[item.index(":")+1:item.index("=")]
+                val = item[item.index("=")+1:]
+                skill = None
+                if (val == "all") : 
+                    for skill in jobSkill.skills : 
+                        print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
+                elif (val != "*") : 
+                    skill = skills[ job ]
+                else : 
+                    jobSkill = jobs[ job ]
+                    skill = skills[ random.choice( jobSkill.skills ) ]
+                level = skill.level
+                if (val != '*'):
+                    level = val
+                    ## NOTE value here !!
+                print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
+        else :
+            print( "\t%s" %( item ) )
+
