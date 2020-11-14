@@ -47,7 +47,7 @@ for elt in res :
                 val = item[item.index("=")+1:]
                 skill = None
                 if (val == "all") : 
-                    for skill in jobSkill.skills : 
+                    for skill in skills : 
                         print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
                 elif (val != "*") : 
                     skill = skills[ job ]
@@ -61,4 +61,11 @@ for elt in res :
                 print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
         else :
             print( "\t%s" %( item ) )
+
+## TODO avoid double results
+## TODO better treatment of jobs ('metiers')
+## TODO better treatment of equipments, software ('logiciels')
+## TODO better treatment of GodFather's ('Parrain')
+## TODO better treatment of debts (debtTo & debtFrom)
+## TODO better treatment of some elements ('credit', ...)
 
