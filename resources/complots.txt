@@ -1,0 +1,17 @@
+## Some ideas about here : 
+## ## ## http://traulever.free.fr/conspi2.htm
+## ## ## http://www.charlatans.info/conspiration.shtml
+## ## ## http://charlatans.info/news/Qui-croit-aux-complots
+## TO convert in (Python) Enum {https://docs.python.org/fr/3/library/enum.html} {https://code.i-harness.com/fr/docs/python~3.7/library/enum}
+## Un concept ; Un groupe ; Une minorité ; Un groupe de personnes ; Un évènement de l'histoire ; Un lieu ; 
+## Un évènement historique célèbre ; Une habitude ennuyeuse ; Un acte violent ; 
+## Un personne ou un groupe "juste" ; Un lieu où personne ne veut aller ; Un moyen de transport collectif ; 
+## Une action décisive à prendre ; Une personne ou un groupe libéral ou tolérant ; Une personne ou une chose conservateur
+# Texte obtenu : 
+## Dans le but de comprendre CONCEPT vous devez réaliser que tout est contrôlé par GROUPE mais a été monté par MINORITE avec l'aide de GROUPEPERSONNES.
+## La conspiration débuta tout d'abord pendant EVENEMENTHISTOIRE dans LIEU. Ils ont été responsables de beaucoup d'évènements à travers l'histoire, y compris EVENEMENTHISTOIRECELEBRE.
+## De nos jours, les membres de la conspiration sont partout. Ils peuvent être identifiés par HABITUDEENNUYEUSE.
+## Ils veulent ACTEVIOLENT JUSTE et emprisonner les résistants de LIEUPERSONNE en utilisant MOYENTRANSPORT.
+## Dans le but de s'y préparer, nous devons tous ACTIONDECISIVE. Etant donné que les média sont tous contrôlés par LBERALTOLERANT nous devrons dorénavant obtenir nos propres informations par CONSERVATEUR.
+# Alternate : 
+## Les [reptiliens] contrôlent en secret [les banques centrales] qui financent le développement de [un faux vaccin] pour prendre le contrôle [du cerveau de nos enfants]. 
