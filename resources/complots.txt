@@ -7,6 +7,7 @@
 ## Un évènement historique célèbre ; Une habitude ennuyeuse ; Un acte violent ; 
 ## Un personne ou un groupe "juste" ; Un lieu où personne ne veut aller ; Un moyen de transport collectif ; 
 ## Une action décisive à prendre ; Une personne ou un groupe libéral ou tolérant ; Une personne ou une chose conservateur
+## ## ## About some Easter Eggs in this file, just figure out what it is (one is here : https://fr.b-ok.cc/book/4756569/28d3a4 )
 # Texte obtenu : 
 ## Dans le but de comprendre CONCEPT vous devez réaliser que tout est contrôlé par GROUPE mais a été monté par MINORITE avec l'aide de GROUPEPERSONNES.
 ## La conspiration débuta tout d'abord pendant EVENEMENTHISTOIRE dans LIEU. Ils ont été responsables de beaucoup d'évènements à travers l'histoire, y compris EVENEMENTHISTOIRECELEBRE.
@@ -16,48 +17,131 @@
 # Alternate : 
 ## Les [reptiliens] contrôlent en secret [les banques centrales] qui financent [le développement d'un faux vaccin] pour prendre le contrôle [du cerveau de nos enfants].
 Table Conspiracy
-	GROUPEPERSONNES contrôlent en secret GROUPE qui financent ACTIONDECISIVE pour prendre le contrôle LIEUPERSONNE. 
+	GROUPEPERSONNES contrôle(nt) en secret GROUPE qui finance(nt) CONCEPT pour prendre le contrôle LIEUPERSONNE. 
 	Dans le but de comprendre CONCEPT vous devez réaliser que tout est contrôlé par GROUPE mais a été monté par MINORITE avec l'aide de GROUPEPERSONNES. La conspiration débuta tout d'abord pendant EVENEMENTHISTOIRE dans LIEU. Ils ont été responsables de beaucoup d'évènements à travers l'histoire, y compris EVENEMENTHISTOIRECELEBRE. Ils veulent ACTEVIOLENT JUSTE et emprisonner les résistants de LIEUPERSONNE en utilisant MOYENTRANSPORT. Dans le but de s'y préparer, nous devons tous ACTIONDECISIVE. Étant donné que les médias sont tous contrôlés par LIBERALTOLERANT nous devrons dorénavant obtenir nos propres informations par CONSERVATEUR.
 
 Table GROUPEPERSONNES
 	les Reptiliens
+	les Big Pharma
+	les Extra-Terrestres
+	les Petits Gris
+	les Mi-Go
+	les Vampires
+	l'ordinateur du Complexe Alpha
+	Cthulhu
+	Nyarlathotep
+	le Pharaon Noir
+	les Franc-Maçons
+	les Juifs Corses
+	les Nazis
+	les Néo-Nazis
 
 Table GROUPE
 	les Banques Centrales
+	InterPol
+	la Commission Européenne
+	l'organisation des Nations-Unies
+	Microsoft
 
 Table LIEUPERSONNE
 	du cerveau de nos enfants
+	des adolescents
+	des supermarchés
+	des superettes
+	des stations-services
 
 Table ACTIONDECISIVE
-	le développement d'un faux vaccin
+	agir pour le développement d'un vaccin
+	faire un don à une Association Caritative
+	acheter des livres
 
 Table ACTEVIOLENT
-	faire un attentat
-	diffuser un documentaire
+	faire un attentat contre
+	diffuser un documentaire à charge contre
+	financer une organisation terroriste agissant contre
 
 Table MOYENTRANSPORT
 	le métro
+	la voiture
+	l'avion
+	la 5G
+	une navette spatiale
 
 Table MINORITE
 	les LGBT
+	les femmes
+	les noirs
+	les juifs
+	les arabes
 
 Table LIBERALTOLERANT
 	les radios libres
+	les anarchistes
+	les islamo-gauchistes
+	les fondamentalistes chrétiens
+	les évangélistes
+	les petits gris
 
 Table CONSERVATEUR
 	le Gorafi
+	le Figaro
+	Bastamag
+	l'Opinion
+	Mediapart
 
 Table LIEU
-	Châtelat-Les Halles
+	le métro parisien
+	Évry
+	Grigny
+	Washington D.C.
+	Bruxelles
+	l'aéroport de Seattle
+	aux coordonnées 47° 27' N 122° 18' W
+	aux coordonnées 34° 57′ S, 150° 30′ O
+	aux coordonnées 48° 52.6' S 123° 23.6' W
+	aux coordonnées 47° 9' S 126° 43' O
+	Asgard
+	le T.A.R.D.I.S.
+	Singapour
+	l'océan Atlantique
+	la mer Méditerranée
+	l'océan Pacifique
+	la Mer Noire
+	la Mer Caspeinne
+	l'océan Indien
 
 Table CONCEPT
 	l'épidémie de SARS-CoV2
+	la théorie du ruissellement
+	le progrès technologique
+	la lutte des classes
+	la sixième extinction de masse
+	l'appauvrissement
+	l'immigration
 
 Table EVENEMENTHISTOIRE
-	la Renaissance
+	la Pandémie de Peste Noire
+	la colonisation
+	le commerce triangulaire
+	la découverte de la roue
+	l'invention de la pénicilline
+	le premier vaccin
 
 Table EVENEMENTHISTOIRECELEBRE
+	la Renaissance
+	la Révolution Française
 	la Guerre de Sécession
+	la Première Guerre Mondiale
+	la Deuxième Guerre Mondiale
+	l'Holocauste
 
 Table JUSTE
-	Gandhi
+	le comité Nobel
+	Emmaüs
+	Amnesty International
+	les Juifs
+	les Franc-Maçons
+	les résistants de la Première Heure
+
+
+

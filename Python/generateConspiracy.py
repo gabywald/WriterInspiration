@@ -17,8 +17,8 @@ from ConspiracyTable import ConspiracyTable
 
 tables = ConspiracyTable.load()
 
-print( tables )
-for elt in tables : 
-    print( tables[ elt ] )
+## print( tables )
+## for elt in tables : 
+##     print( tables[ elt ] )
 
 print( ConspiracyTable.generateSomeConspiracy() )

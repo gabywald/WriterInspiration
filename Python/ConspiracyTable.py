@@ -48,7 +48,7 @@ class ConspiracyTable( object ) :
         sentence = random.choice( tables[ "Conspiracy" ].contents )
         toBeReplaced = re.findall( "([A-Z]{2,})", sentence)
         for elt in toBeReplaced: 
-            print( elt )
+            ## print( elt )
             sentence = sentence.replace(elt, random.choice( tables[ elt ].contents ), 1)
         return sentence
 
