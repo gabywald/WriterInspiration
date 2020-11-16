@@ -15,3 +15,4 @@ Here some in french :
 * presentationAtelierCreerIntrigueJdR.pdf
 * presentationAtelierCreerIntrigueJdROriginal.pdf
 * sousLesDesLideeJdR.txt
+* complots.txt

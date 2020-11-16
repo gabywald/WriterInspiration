@@ -6,4 +6,4 @@
 * 'generateRPGSituations.py' : generate some situations for RPG tabletop gaming
 * 'generateBiography.py' : generate some Biography description for a character of an RPG tabletop game (to be completed for some minor detazils / precisions)
 * 'generateMainStream.py' : generate some general synopsis description for main writing purposes
-* '' : 
+* 'generateConspiracy.py' : generate some conpiracy theories

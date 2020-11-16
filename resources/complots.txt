@@ -12,6 +12,52 @@
 ## La conspiration débuta tout d'abord pendant EVENEMENTHISTOIRE dans LIEU. Ils ont été responsables de beaucoup d'évènements à travers l'histoire, y compris EVENEMENTHISTOIRECELEBRE.
 ## De nos jours, les membres de la conspiration sont partout. Ils peuvent être identifiés par HABITUDEENNUYEUSE.
 ## Ils veulent ACTEVIOLENT JUSTE et emprisonner les résistants de LIEUPERSONNE en utilisant MOYENTRANSPORT.
-## Dans le but de s'y préparer, nous devons tous ACTIONDECISIVE. Etant donné que les média sont tous contrôlés par LBERALTOLERANT nous devrons dorénavant obtenir nos propres informations par CONSERVATEUR.
+## Dans le but de s'y préparer, nous devons tous ACTIONDECISIVE. Étant donné que les média sont tous contrôlés par LIBERALTOLERANT nous devrons dorénavant obtenir nos propres informations par CONSERVATEUR.
 # Alternate : 
-## Les [reptiliens] contrôlent en secret [les banques centrales] qui financent le développement de [un faux vaccin] pour prendre le contrôle [du cerveau de nos enfants]. 
+## Les [reptiliens] contrôlent en secret [les banques centrales] qui financent [le développement d'un faux vaccin] pour prendre le contrôle [du cerveau de nos enfants].
+Table Conspiracy
+	GROUPEPERSONNES contrôlent en secret GROUPE qui financent ACTIONDECISIVE pour prendre le contrôle LIEUPERSONNE. 
+	Dans le but de comprendre CONCEPT vous devez réaliser que tout est contrôlé par GROUPE mais a été monté par MINORITE avec l'aide de GROUPEPERSONNES. La conspiration débuta tout d'abord pendant EVENEMENTHISTOIRE dans LIEU. Ils ont été responsables de beaucoup d'évènements à travers l'histoire, y compris EVENEMENTHISTOIRECELEBRE. Ils veulent ACTEVIOLENT JUSTE et emprisonner les résistants de LIEUPERSONNE en utilisant MOYENTRANSPORT. Dans le but de s'y préparer, nous devons tous ACTIONDECISIVE. Étant donné que les médias sont tous contrôlés par LIBERALTOLERANT nous devrons dorénavant obtenir nos propres informations par CONSERVATEUR.
+
+Table GROUPEPERSONNES
+	les Reptiliens
+
+Table GROUPE
+	les Banques Centrales
+
+Table LIEUPERSONNE
+	du cerveau de nos enfants
+
+Table ACTIONDECISIVE
+	le développement d'un faux vaccin
+
+Table ACTEVIOLENT
+	faire un attentat
+	diffuser un documentaire
+
+Table MOYENTRANSPORT
+	le métro
+
+Table MINORITE
+	les LGBT
+
+Table LIBERALTOLERANT
+	les radios libres
+
+Table CONSERVATEUR
+	le Gorafi
+
+Table LIEU
+	Châtelat-Les Halles
+
+Table CONCEPT
+	l'épidémie de SARS-CoV2
+
+Table EVENEMENTHISTOIRE
+	la Renaissance
+
+Table EVENEMENTHISTOIRECELEBRE
+	la Guerre de Sécession
+
+Table JUSTE
+	Gandhi
