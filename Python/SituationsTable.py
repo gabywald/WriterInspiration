@@ -27,7 +27,7 @@ class SituationsTable( object ) :
     @classmethod
     def load( self ) : 
         tables = {}
-        data = ModuleHelper.loadConfig( "36intriguesFondamentales" )
+        data = ModuleHelper.loadFileConfig( "36intriguesFondamentales" )
         nextTable = None
         for line in data : 
             if (not line.startswith("## ") ) : 

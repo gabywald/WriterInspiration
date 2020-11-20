@@ -37,7 +37,7 @@ class DiceTable( object ) :
     @classmethod
     def load( self ) : 
         tables = {}
-        data = ModuleHelper.loadConfig( "sousLesDesLideeJdR" )
+        data = ModuleHelper.loadFileConfig( "sousLesDesLideeJdR" )
         nextTable = None
         nextSubTable = None
         for line in data : 

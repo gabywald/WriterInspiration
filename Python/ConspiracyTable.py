@@ -26,7 +26,7 @@ class ConspiracyTable( object ) :
     @classmethod
     def load( self ) : 
         tables = {}
-        data = ModuleHelper.loadConfig( "complots" )
+        data = ModuleHelper.loadFileConfig( "complots" )
         nextTable = None
         for line in data : 
             if (not line.startswith("## ") ) : 

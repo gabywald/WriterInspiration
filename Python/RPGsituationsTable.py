@@ -27,7 +27,7 @@ class RPGsituationsTable( object ) :
     @classmethod
     def load( self ) : 
         tables = {}
-        data = ModuleHelper.loadConfig( "36intriguesJdR" )
+        data = ModuleHelper.loadFileConfig( "36intriguesJdR" )
         nextTable = None
         for line in data : 
             if (not line.startswith("## ") ) : 
