@@ -47,8 +47,10 @@ for elt in res :
                 val = item[item.index("=")+1:]
                 skill = None
                 if (val == "all") : 
-                    for skill in skills : 
-                        print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
+                    print( "\t%s%s" %( job , jobs[ job ].skills )  )
+                    for elt in jobs[ job ].skills : 
+                        skill = skills[ elt ]
+                        print( "\t%s\t%s\t%s" %( skill.name, skill.level, skill.possibilities ) )
                 elif (val != "*") : 
                     skill = skills[ job ]
                 else : 
@@ -58,7 +60,7 @@ for elt in res :
                 if (val != '*'):
                     level = val
                     ## NOTE value here !!
-                print( "\t%s\t%s\t%s" %( skill.name, level, skill.possibilities ) )
+                print( "\t%s\t%s\t%s" %( skill.name, skill.level, skill.possibilities ) )
         else :
             print( "\t%s" %( item ) )
 
