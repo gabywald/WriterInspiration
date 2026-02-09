@@ -16,3 +16,10 @@ Here some in french :
 * presentationAtelierCreerIntrigueJdROriginal.pdf
 * sousLesDesLideeJdR.txt
 * complots.txt
+* CommentEcrireUneBonneHistoire.md
+* Structure-histoire-Ostramus.jpg
+* VoyageDuHeros.png
+* 1200px-Heroesjourney.svg-960w.png
+* Les36scenarios.md
+* monomythe_VoyageDuHeros_JosephCampbell.txt
+* ProcessusDEcriture.jpg
